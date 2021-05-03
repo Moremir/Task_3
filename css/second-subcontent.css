@@ -1,0 +1,58 @@
+.second__subcontent {
+    display: flex;
+    justify-content: space-between;
+}
+
+.second__payment {
+    max-width: 320px;
+    margin-left: 22px;
+    width: 100%;
+}
+
+.second__payment-line {
+    height: 9.5px;
+    background-color: #F1F1F1;
+    border-radius: 14px;
+    margin-bottom: 10.62px;
+}
+
+.second__payment-subline {
+    max-width: 69.25px;
+    background-color: #197BBD;
+    border-radius: 14px;
+    height: 100%;
+}
+
+.second__payment-limit {
+    display: flex;
+    justify-content: space-between;
+}
+
+.second__payment-amount {
+    font-weight: 600;
+    font-size: 14px;
+}
+
+.second__activation {
+    display: flex;
+    align-items: flex-end;
+    flex-direction: column;
+    justify-content: flex-end;
+}
+
+.second__active {
+    height: 10.62px;
+    background-color: #EBEBEB;
+    border-radius: 14px;
+    width: 24px;
+    margin-bottom: 11px;
+}
+
+.second__round {
+    width: 50%;
+    background-color: #CDCDCD;
+    height: 100%;
+    border-radius: 14px;
+}
+
+

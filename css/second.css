@@ -1,0 +1,22 @@
+.second__container {
+    max-width: 596.66px;
+    width: 100%;
+    
+}
+
+.second__title {
+    margin: 34px 0 3.5px 0;
+    font-weight: 600;
+    font-size: 44px;
+}
+
+.second__subtitle {
+    font-size: 16px;
+    color: #AEAEAE;
+    margin-bottom: 42.65px;
+}
+
+button {
+    cursor: pointer;
+}
+

@@ -1,0 +1,32 @@
+.first__ending {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    width: 163px;
+    margin-left: 50px;
+}
+
+.first__ending-img img {
+    width: 72px;
+    height: 80px;
+    margin-bottom: 11px;
+}
+
+.first__ending-txt p {
+    max-width: 115px;
+    font-size: 10px;
+    text-align: center;
+    font-weight: 400;
+    margin-bottom: 15px;
+}
+
+.first__ending-btn button {
+    width: 163px;
+    height: 41px;
+    max-width: 100%;
+    background-color: #FFC145;
+    border: none;
+    border-radius: 14px;
+    font-size: 12px;
+}

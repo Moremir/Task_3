@@ -1,0 +1,43 @@
+.third__goals-info {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 47px;
+}
+
+.third__events {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  grid-column-gap: 10px;
+  
+}
+
+.third__event {
+  padding: 25px 13px;
+  width: 157px;
+  border-radius: 28px;
+
+box-shadow: 0px 2px 6px 0px #000000;
+}
+
+.third__amount {
+  font-weight: 600;
+  font-size: 24px;
+  color: #696969;
+}
+
+.third__date {
+  font-size: 14px;
+  color: #aeaeae;
+  margin-bottom: 41px;
+}
+
+.third__event-name {
+  font-size: 20px;
+  color: #404040;
+}
+
+
+.third__subtitle {
+  margin-bottom: 20px;
+}

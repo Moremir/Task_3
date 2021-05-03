@@ -1,0 +1,71 @@
+.third__subcontent {
+    display: flex;
+    margin-bottom: 24px;
+}
+
+.third__icon {
+    width: 42px;
+    height: 43px;
+    background-color: #FFEADA;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-right: 15px;
+}
+
+.third__chart {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    margin-right: 15px;
+}
+
+.third__scale {
+    width: 368px;
+    height: 9.5px;
+    background-color: #F1F1F1;
+    border-radius: 14px;
+}
+
+.third__cover {
+    max-width: 195px;
+    height: 100%;
+    background-color: #FCAE73;
+    border-radius: 14px;
+}
+
+.third__subcontent-name {
+    font-size: 14px;
+    color: #AEAEAE;
+}
+
+
+
+.third__num {
+    font-size: 24px;
+    color: #696969;
+    font-weight: 600;
+}
+
+
+.third__icon-two {
+    background-color: #DDF9E4 !important;
+}
+
+.third__cover-two {
+    max-width: 62px !important;
+    background-color: #209D43 !important;
+}
+
+.third__icon-three {
+    background-color: #E4F0FF !important;
+}
+
+.third__cover-three {
+    background-color: #70A6E8 !important;
+    max-width: 281px !important;
+}
+
+.third__subcontent-three {
+    margin-bottom: 55px;
+}

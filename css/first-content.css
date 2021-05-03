@@ -1,0 +1,42 @@
+.first__content {
+    max-width: 165px;
+    margin-left: 40.54px;
+    margin-bottom: 281px;
+}
+
+.first__items {
+    display: flex;
+    height: 39px;
+    
+    align-items: center;
+}
+
+.first__items-bg {
+    background-color: #F0F7FF;
+}
+
+.first__items:hover {
+    background-color: #F0F7FF;
+    
+}
+
+.first__content-img {
+    margin: 0 18px 0 9.45px;
+}
+
+.first__overview-img {
+    margin: 5.5px;
+}
+
+.first__overview {
+    color: #197BBD !important;
+}
+
+.first__cases a {
+    text-decoration: none;
+    color: #C7C7C7;
+}
+
+.first__cases a:hover {
+    color: #197BBD;
+}
